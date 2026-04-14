@@ -13,5 +13,5 @@ Este es un tablero con datos de 3 ODS seleccionadas, donde nos enfocaremos en el
 •ODS 4: Educación de calidad 📚  
 •ODS 8: Trabajo decente y crecimiento económico 👩🏻‍🌾 📈
 
-**Pregunta central**
+**Pregunta central** 
 ¿Qué determina realmente el futuro de una persona en México?
