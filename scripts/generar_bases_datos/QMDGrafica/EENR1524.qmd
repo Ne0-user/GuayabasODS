@@ -1,0 +1,55 @@
+---
+
+title: "Reporte de Migración"
+format: html
+jupyter: python3
+----------------
+
+## Cargar librerías
+
+```{python}
+import sqlite3
+import pandas as pd
+import matplotlib.pyplot as plt
+```
+
+## Conexión a la base de datos y consulta
+
+```{python}
+# Conectar a la base de datos
+conn = sqlite3.connect("trabajo.db")
+
+# Query: total de personas por año
+query = """
+SELECT año, SUM(cantidad) as total
+FROM EENR1524
+GROUP BY año
+ORDER BY año
+"""
+
+# Ejecutar query y guardar en DataFrame
+df = pd.read_sql_query(query, conn)
+
+# Mostrar tabla
+df
+```
+
+## Gráfica de resultados
+
+```{python}
+plt.figure()
+plt.plot(df["año"], df["total"], marker='o')
+
+plt.title("Total de personas por año")
+plt.xlabel("Año")
+plt.ylabel("Cantidad")
+plt.grid()
+
+plt.show()
+```
+
+## Cerrar conexión
+
+```{python}
+conn.close()
+```
