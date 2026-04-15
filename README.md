@@ -16,6 +16,6 @@ Este es un tablero con datos de 3 ODS seleccionadas, donde nos enfocaremos en el
 **Pregunta central**  
 ¿Qué determina realmente el futuro de una persona en México?
 
-**Nuestras fuentes fueron:** 
-[SIODS] (https://agenda2030.mx/#/home) 
+**Nuestras fuentes fueron:**  
+[SIODS]   
 [Portal de datos abiertos de gobierno] (http://www.dgis.salud.gob.mx/contenidos/basesdedatos/Datos_Abiertos_gobmx.html) 
