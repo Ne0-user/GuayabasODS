@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Grotesk:wght@300;400;600&display=swap');
+
+body {
+  font-family: 'Space Grotesk', sans-serif;
+}
+:root {
+  --primary: #777f1a;
+  --secondary: #ff3cac;
+  --body-bg: #ba46aa;
+  --body-color: #153d72;
+}
+
+h1,h2,h3 {
+  font-family: 'Press Start 2P', cursive;
+  background-color: #1a0e4a;
+}
+
+body {
+  font-family: 'Space Grotesk', sans-serif;
+  background-color: #1a0e4a;
+}
+
+p{
+  color: #bdc687;
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+/*Título*/
+h1 {
+  color: #c0edf8;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/*Subtítulos*/
+h2 {
+  color: #ffb6d9; 
+  border-left: 3px solid #ffb6d9;
+  padding-left: 10px;
+}
+
+/*Megasubtítulos*/
+h3 {
+  color: #dcd0b1;
+}
+
+/*Cards*/
+.card {
+  background: #dfe9bd !important;
+  border: 1px solid #588fdb !important;
+  border-radius: 6px;
+  box-shadow: 0 0 8px rgba(56, 189, 248, 0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/*Links*/
+a {
+  color: #f08fd2;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #c25093;
+  text-decoration: underline;
+}
+
+/*Mis tabs bonitos :P*/
+.nav-tabs {
+  border-bottom: 2px solid #dfe9bd;
+}
+
+/*c/u*/
+.nav-tabs .nav-link {
+  background-color: #dfe9bd;
+  color: #1a0e4a;
+  margin-right: 5px;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 14px;
+  transition: all 0.2s ease;
+}
+
+/*el hover de mis tabs */
+.nav-tabs .nav-link:hover {
+  background-color: #ffb6d9;
+  color: #f4f9d4;
+}
+
+/*Tab abierto*/
+.nav-tabs .nav-link.active {
+  background-color: #f838ab;
+  color: #dfe9bd;
+  border: 2px solid #f838ab;
+}

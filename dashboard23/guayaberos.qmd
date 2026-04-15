@@ -1,0 +1,33 @@
+---
+title: "De la semilla al guayabero: la vida de un mexicano"
+format:
+  html:
+    css: styles.css
+    page-layout: full
+---
+## ODS 3,4 y 8
+
+::: {.panel-tabset}
+## Cuna llena de desigualdad
+Como mexicanos, podemos percibir que aún la adversidad nos persigue, ya que donde naces, determina una parte de tu "suerte" en la vida Los retos que mas notamos son la mortalidad, embarazos adolescentes, la falta de educación y el desempleo. 
+
+//Estadisticas 
+
+## Y... ¿Si se relacionan?
+Las tres ODS elegidas de Salud y Bienestar, Educación de Calidad y Trabajo Decente y Crecimiento Económico, están interconectadas. Por ejemplo, si hay educación de calidad, se pueden generar mejores oportunidades de empleo, lo que a su vez puede mejorar la salud y el bienestar de las personas. U otro ejemplo es que a menor tasa de embarazos adolecentes, hay mas oportunidad que estas jovencitas terminen su educación y tengan mejores oportunidades laborales, lo que también impacta positivamente en su salud y bienestar.
+
+//Estadisticas
+
+
+## Granito de fé
+Pero no todo está perdido aún, de hecho hay estados que han mejorado en tasas de educación o menos empleos informales, lo que es un gran paso para mejorar la calidad de vida de los mexicanos. Esto se demuestra en las siguientes estadisticas.
+
+//Estadisticas
+
+## Semilla Guayabera
+Ahora que tenemos estadísticas de los retos en el país, es importante saber que nosotros podemos poner nuestra semilla, asi sea con acciones pequeñas que a lo largo nos den "guayabas". 
+Aquí presentamos algo de motivación según el sector de su interés:  
+-Estudiantes: Promover la continuación de los estudios, aprender educación sexual y promover la igualdad de género.  
+-Empresas: Fomentar los primeros empleos a jóvenes, formalizar trabajos informales, promover la igualdad de género y ofrecer oportunidades de capacitación.  
+-Gobierno: Invertir en educación y salud, fomentar más progamas de salud, reducción de la pobreza.
+:::
