@@ -54,4 +54,7 @@ Este es un tablero con datos de 3 ODS seleccionadas, donde nos enfocaremos en el
 | INGRESO medio por HORA de empleadas y empleados, desglosado según condición de RESIDENCIA y país de NACIMIENTO | IHRN | CREADO |
 | TASA de DESOCUPACION, desglosada por SEXO y EDAD | TDSE | CREADO |
 #
-# +SALUD
+# -Justificación
+El trabajo es un factor muy importante en la vida de todos y tambien creemos que es un facor importante para decidir el futuro de las personas en nuestro pais,
+para lo cual tomamos indicadores estratégicos de la ODS 8 que reflejan la realidad del mercado laboral. Tomamos indicadores para sabr la brecha entre los ingresos
+de las personas,el porcentaje de empleo informal, la juventud poco productiva y el trabajo infantil.
